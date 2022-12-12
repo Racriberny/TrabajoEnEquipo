@@ -10,9 +10,5 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        //hola maricon
-        System.out.println("Adios");
-        System.out.println("adiosssss");
-        System.out.println("yombi tonto");
     }
 }
