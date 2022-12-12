@@ -13,5 +13,6 @@ public class MainActivity extends AppCompatActivity {
         //hola maricon
         System.out.println("Adios");
         System.out.println("adiosssss");
+        System.out.println("yombi tonto");
     }
 }
